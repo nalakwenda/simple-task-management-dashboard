@@ -1,4 +1,4 @@
-# Simple Project And Task Management
+# Simple Project And Task Management Dashboard
 
 This is a react application  that allows the user to login, create projects and perform crud operations on them.
 
