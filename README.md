@@ -1,3 +1,8 @@
+# Simple Project And Task Management
+
+This is a react application  that allows the user to login, create projects and perform crud operations on them.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
