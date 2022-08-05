@@ -6,6 +6,15 @@ This is a react application  that allows the user to login, create projects and 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Libraries Used
+
+- Redux Toolkit (Query)
+- Material UI V5
+- Formik
+- React Big Calendar
+- Apex Charts
+
+
 ## Available Scripts
 
 In the project directory, you can run:
